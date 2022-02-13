@@ -26,3 +26,7 @@
 25. git commit -am 'add: commands history to README.md'
 26. git checkout master
 27. git merge feature/branch_01
+
+git branch --merged
+  feature/branch_01
+* master
